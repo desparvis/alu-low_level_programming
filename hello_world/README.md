@@ -1,0 +1,1 @@
+This is the first project of low level programming and it shows the basics of C programming.

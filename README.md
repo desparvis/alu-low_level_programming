@@ -1,1 +1,1 @@
-This repository is of a learning project of about how C works.
+This repository is of a learning project of about how low level works.
