@@ -1,1 +1,1 @@
-* This project repo shows the basics of C Programming language
+This repository is of a learning project of about how C works.
