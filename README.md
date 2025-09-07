@@ -1,0 +1,1 @@
+* This project repo shows the basics of C Programming language
