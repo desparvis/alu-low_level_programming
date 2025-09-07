@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * Program displays text using puts
+ * main - function shows text with puts
+ * Return: 0 if exited properly
  */
 int main(void)
 {
