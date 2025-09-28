@@ -6,7 +6,7 @@
  * Description - This prints _putchar followed by a new line
  * Return: 0 to exit
  */
-int main(void) 
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
